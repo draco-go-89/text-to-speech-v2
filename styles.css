@@ -1,6 +1,6 @@
 :root {
-    --bg: #f7f9fc;
-    --card: #fff;
+    --bg: #ebf9ff;
+    --card: #ebf9ff;
     --accent: #0366d6
 }
 
@@ -19,7 +19,7 @@ main {
     padding: 2rem;
     background: var(--card);
     border-radius: 12px;
-    box-shadow: 0 6px 20px rgba(10, 10, 10, 0.06)
+    /* box-shadow: 0 6px 20px rgba(10, 10, 10, 0.06) */
 }
 
 .controls {
@@ -33,7 +33,7 @@ textarea {
     height: 120px;
     padding: 0.8rem;
     border-radius: 8px;
-    border: 1px solid #ddd;
+    border: 1px solid #f3f3f3ee;
     font-family: inherit;
     resize: vertical;
     box-sizing: border-box;

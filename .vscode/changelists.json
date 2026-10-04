@@ -3,9 +3,7 @@
     {
       "name": "Default",
       "files": [
-        "styles.css",
-        ".vscode/changelists.json",
-        "index.html"
+        "README.md"
       ]
     }
   ],
